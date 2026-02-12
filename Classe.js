@@ -57,3 +57,4 @@ heroi3.defender();
 
 // Usando laço de repetição no treinamento
 heroi1.treinar(3);
+
